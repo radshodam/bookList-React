@@ -1,0 +1,18 @@
+.boxes {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  grid-gap: 5px;
+  text-align: center;
+}
+.boxes img {
+  width: 225px;
+  height: 200px;
+  border-radius: 50%;
+}
+.itembox {
+  background-color: chocolate;
+  border-radius: 27px;
+  padding: 19px;
+  color: aliceblue;
+  margin: 25px;
+}
